@@ -1,0 +1,14 @@
+.nav-top{
+    background-color: #004657;
+}
+
+.nav-link{
+  color: antiquewhite !important;
+background-color: rgb(255, 68, 0) !important;
+margin-left: 1em !important;
+border-radius: 10%;
+}
+
+.btn-buscar{
+    background-color: rgb(255, 68, 0) !important;
+}
