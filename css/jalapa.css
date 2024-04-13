@@ -12,3 +12,22 @@ border-radius: 10%;
 .btn-buscar{
     background-color: rgb(255, 68, 0) !important;
 }
+
+footer{
+  background-color: #004657;
+text-align: center;
+color: white;
+}
+
+.img-car{
+  max-height: 520px;
+  max-width: 10000px;
+}
+
+.edit-to{
+  background-color: #004657;
+  text-align: center;
+  color: white;
+  padding: 3em;
+}
+    
