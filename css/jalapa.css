@@ -1,33 +1,33 @@
 .nav-top{
-    background-color: #004657;
+    background-color: #0F3244;
 }
 
 .nav-link{
   color: antiquewhite !important;
-background-color: rgb(255, 68, 0) !important;
+background-color: #FBB03B !important;
 margin-left: 1em !important;
 border-radius: 10%;
 }
 
 .btn-buscar{
-    background-color: rgb(255, 68, 0) !important;
+    background-color: #FBB03B !important;
 }
 
 footer{
-  background-color: #004657;
+  background-color: #0F3244;
 text-align: center;
 color: white;
 }
 
-.img-car{
-  max-height: 520px;
-  max-width: 10000px;
-}
 
 .edit-to{
-  background-color: #004657;
+  background-color:#0F3244;
   text-align: center;
   color: white;
   padding: 3em;
 }
     
+.fun-leg{
+  background-color: rgba(0, 0, 0, 0.5);
+margin-top: 1em;
+}
