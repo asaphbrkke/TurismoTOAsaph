@@ -31,3 +31,34 @@ color: white;
   background-color: rgba(0, 0, 0, 0.5);
 margin-top: 1em;
 }
+
+.sec-pacotes{
+  margin-left: 10%;
+  margin-right: 10%;
+  justify-content: center;
+  margin: 1%;
+  margin-top: 2%;
+}
+
+.card-img-top1{
+  height: 281px;
+}
+
+.card{
+  padding: 1% !important;
+margin: 0% 1% 1% 0%;
+}
+
+.card-title{
+  text-align: center;
+   color: #0F3244 !important;
+}
+
+.card-text{
+  text-align: justify;
+
+}
+
+.btn-primary{
+  background-color: #FBB03B !important;
+}
